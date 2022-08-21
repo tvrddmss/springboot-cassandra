@@ -1,0 +1,8 @@
+ spring:
+  data:
+   cassandra:
+     contact-points: 192.168.50.8
+     port: 9042   
+     username: cassandra
+     password: cassandra
+     keyspace-name: mycasdb
